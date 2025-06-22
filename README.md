@@ -1,2 +1,3 @@
 # DataBase-Books
-A repository showcasing my SQL and database development skills
+A relational database demonstrating one-to-many relationships between tables. 
+This project focuses on structurizing database and mastering attributes and keys.
